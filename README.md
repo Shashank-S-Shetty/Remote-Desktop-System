@@ -127,7 +127,7 @@ Enter server IP: 192.168.1.5
 
 * Works only on the same network (LAN)
 * No encryption (not secure for public use)
-* Fixed screen resolution (default: 1920x1080)
+* Fixed screen resolution (default: 1920x1080) (Can be changed in Client.py)
 * No authentication mechanism
 
 ---
